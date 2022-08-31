@@ -11,9 +11,9 @@ public class Hondacar extends Car
 		
 	}
 
-  //  public void wheels()
-    //{
-    //  System.out.println(" hondacarwheels");
-  //  }
+     public void wheels()
+    {
+     System.out.println(" hondacarwheels");
+    }
 }
 
